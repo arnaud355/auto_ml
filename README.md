@@ -1,2 +1,2 @@
 # auto_ml
-Class automation for regressions models in Machine Learning
+Preprocessing automation for regressions models in Machine Learning
