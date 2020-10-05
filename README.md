@@ -1,2 +1,2 @@
 # auto_ml
-Preprocessing automation for regressions models in Machine Learning
+Manual preprocessing automation for regressions models in Machine Learning
