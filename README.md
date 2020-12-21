@@ -1,7 +1,7 @@
 # auto_ml
 Manual preprocessing automation for regressions models in Machine Learning
 
-Le minimum de votre class AutoML  :
+Le minimum d'une class AutoML  :
 -prétraitement
    reduction de la taille de votre dataset (float64 => float32, object => category etc.)
    - sur les variables catégoriques :
@@ -10,7 +10,7 @@ Le minimum de votre class AutoML  :
     - sur les variables numériques:
          - gestion des nan
         - normalisation
-prediction : 
+-prediction : 
     - détecter automatiquement si c'est un problème de classification ou de régression
     - en fonction, utiliser les algos appropriés 
     -  ressortir les performances du modèle
